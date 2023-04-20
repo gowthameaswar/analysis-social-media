@@ -9,7 +9,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
 # Download the VADER lexicon if you haven't done so before
-#nltk.download('vader_lexicon')
+nltk.download('vader_lexicon')
 
 # Initialize the VADER sentiment analyzer
 analyzer = SentimentIntensityAnalyzer()
