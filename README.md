@@ -6,16 +6,6 @@ Sure! Here is the updated `README.md` file with emojis added to the titles:
 
 This project implements a sentiment analysis tool for the social media app Chatgram, using Streamlit for the web interface, Vader Lexicon for sentiment analysis, MongoDB for data storage, and Python as the programming language.
 
-## 📚 Table of Contents
-
-- [📋 Introduction](#introduction)
-- [✨ Features](#features)
-- [🛠 Technologies Used](#technologies-used)
-- [⚙️ Installation](#installation)
-- [🚀 Usage](#usage)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
-
 ## 📋 Introduction
 
 Chatgram is a social media application that allows users to post messages and interact with each other. This project aims to analyze the sentiment of the messages posted on Chatgram, categorizing them as happy 😊, sad 😢, or neutral 😐. The sentiment analysis is performed using the Vader Lexicon, and the results are displayed using a Streamlit web interface. The messages and their sentiment scores are stored in a MongoDB database.
